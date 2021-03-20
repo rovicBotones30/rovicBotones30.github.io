@@ -24,7 +24,7 @@ body {
     .wrapper iframe{
         margin-right: 0.5em;
     }
-.center {
+.wrapper center {
   display: block;
   margin-left: auto;
   margin-right: auto;
